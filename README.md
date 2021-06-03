@@ -88,3 +88,5 @@ This project is currently on the level of proof of concept. In order to deploy o
  - Check against a live database, capturing items currently available in the second-hand market.
  - Explore more powerful models, such as GAN.
  - Add options, to filter for size, color styles, and more.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gert-JanD&hide=Jupyter Notebook)
